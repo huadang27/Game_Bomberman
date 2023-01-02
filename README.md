@@ -1,5 +1,4 @@
 # Game_Bomberman
-# Game_Bomberman
 
 Trong bài Java này mô phỏng lại trò chơi [Bomberman](https://www.youtube.com/watch?v=mKIOVwqgSXM) kinh điển của NES.
 
