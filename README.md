@@ -1,10 +1,6 @@
 # Game_Bomberman
-# Game_Bomberman
-
 Trong bài Java này mô phỏng lại trò chơi [Bomberman](https://www.youtube.com/watch?v=mKIOVwqgSXM) kinh điển của NES.
-
-<img src="res/demo.png" alt="drawing" width="400"/>
-
+<img src="btl_bomberman-starter/res/demo.png" alt="drawing" width="400"/>
 
 ## Mô tả về các đối tượng trong trò chơi
 Nếu bạn đã từng chơi Bomberman, bạn sẽ cảm thấy quen thuộc với những đối tượng này. Chúng được được chia ra làm hai loại chính là nhóm đối tượng động (*Bomber*, *Enemy*, *Bomb*) và nhóm đối tượng tĩnh (*Grass*, *Wall*, *Brick*, *Door*, *Item*).
